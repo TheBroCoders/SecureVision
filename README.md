@@ -177,7 +177,9 @@ Name: Arijeet
 Status: Authorized
 Camera: CAM 3
 ```
-
+<p align="center">
+  <img src="alert_1757842218.png" width="800"/>
+</p>
 Unauthorized Detection
 
 ```id="7c9w1m"
